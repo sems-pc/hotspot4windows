@@ -1,0 +1,7 @@
+README.md
+setup.py
+hotspot4windows/__init__.py
+hotspot4windows.egg-info/PKG-INFO
+hotspot4windows.egg-info/SOURCES.txt
+hotspot4windows.egg-info/dependency_links.txt
+hotspot4windows.egg-info/top_level.txt

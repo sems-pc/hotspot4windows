@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: hotspot4windows
+Version: 1.0
+Summary: Wireless hotspot Python package in Windows environment.
+Home-page: https://github.com/ying2002/hotspot4windows
+Author: ying2002
+Author-email: 877259039@qq.com
+License: UNKNOWN
+Description: # hotspot4windows
+        
+        Wireless hotspot Python package in Windows environment.If you like it,
+        you can follow me on Github: https://github.com/ying2002.
+        Thanks!:)
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6
+Classifier: License :: OSI Approved :: MIT License
+Description-Content-Type: text/markdown
