@@ -1,4 +1,6 @@
 import os
+import getpass
+import time
 
 name = "hotspot4windows"
 
@@ -10,11 +12,19 @@ class Hotspot:
     def disallow(self):
         os.system("netsh wlan set hostednetwork mode=disallow")
 
-    def launch(self):   # 目前只能通过该Python包设置热点名称和密码，这是下一版本要解决的地方。
+    def launch(self):
         ssid = input("Please enter SSID:")
-        passwd = input("Please enter password:")
-        os.system("netsh wlan set hostednetwork mode=allow ssid=%s key=%s" % (ssid, passwd))
-        os.system("netsh wlan start hostednetwork")
+        passwd = getpass.getpass("Please enter password:")
+        passwd2 = getpass.getpass("Pleast enter password again:")
+        print("Checking password......")
+        time.sleep(1)
+        if passwd == passwd2:
+            print("Password validation is OK!")
+            time.sleep(1)
+            print("Launching wireless hotspot......")
+            os.system("netsh wlan set hostednetwork mode=allow ssid=%s key=%s" % (ssid, passwd))
+            os.system("netsh wlan start hostednetwork")
+            print("OK!")
 
     def wifiinfo(self):
         os.system("netsh wlan show hostednetwork")
