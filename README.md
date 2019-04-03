@@ -1,5 +1,4 @@
-
-欢迎来到hotspot4windows的Wiki主页!
+欢迎使用hotspot4windows!
 
 **由于“getpass”包的问题，目前该包只能在终端（Windows命令符）中运行，为了能够使用该包，请你：**
 
