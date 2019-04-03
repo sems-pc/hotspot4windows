@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Chrithon/hotspot4windows/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+欢迎来到hotspot4windows的Wiki主页!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**由于“getpass”包的问题，目前该包只能在终端（Windows命令符）中运行，为了能够使用该包，请你：**
 
-### Markdown
+1. 保存Python文件。
+2. 打开Windows命令提示符。
+3. 在Windows终端执行“(盘符名):”命令。 (启动命令提示符时显示的位置是“C:\Users\Administrator”，如果你的文件位置在C盘，你可以忽略此步)
+4. 在Windows命令提示符中执行“cd /(The location of Python File)”。
+5. 在Windows命令提示符中执行“python (filename).py”。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+还不明白？[戳我！](https://www.bilibili.com/video/av42809262)
 
-```markdown
-Syntax highlighted code block
+如果有任何问题，请发电子邮件至：
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Chrithon/hotspot4windows/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+877259039@qq.com
