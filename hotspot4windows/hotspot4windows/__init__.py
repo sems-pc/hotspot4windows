@@ -56,3 +56,10 @@ def disallow():
 
 def hotspotinfo():
     os.system("netsh wlan show hostednetwork")
+
+
+def faststart(ssid, password):
+    os.system("netsh wlan set hostednetwork mode=allow ssid=%s key=%s" % (ssid, password))
+    os.system("netsh wlan start hostednetwork")
+    print("OK!")
+    time.sleep(2)

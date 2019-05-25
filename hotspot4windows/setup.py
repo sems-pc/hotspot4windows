@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="hotspot4windows",
-    version="1.19.2",
+    version="1.19.3",
     author="ying2002",
     author_email="877259039@qq.com",
     description="Wireless hotspot Python package in Windows environment.",
