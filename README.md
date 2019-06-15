@@ -2,6 +2,8 @@
 
 欢迎使用hotspot4windows!
 
+[官方网站](https://chrithon.github.io/hotspot4windows/)
+
 **由于“getpass”包的问题，目前该包只能在终端（Windows命令符）中运行，为了能够使用该包，请你：**
 
 1. 保存Python文件。
@@ -17,6 +19,8 @@
 877259039@qq.com
 
 （English）
+
+[Official Website](https://chrithon.github.io/hotspot4windows/)
 
 Welcome to use Hotspot4windows!
 
@@ -35,6 +39,8 @@ If you have any question, please send an E-mail to:
 877259039@qq.com
 
 （繁体中文）
+
+[官方網站](https://chrithon.github.io/hotspot4windows/)
 
 歡迎使用hotspot4windows!
 
