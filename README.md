@@ -2,7 +2,7 @@
 
 欢迎使用hotspot4windows!
 
-[官方网站](https://chrithon.github.io/hotspot4windows/)
+[官方网站](https://sems-pc.club/hotspot4windows/)
 
 **由于“getpass”包的问题，目前该包只能在终端（Windows命令符）中运行，为了能够使用该包，请你：**
 
@@ -20,7 +20,7 @@
 
 （English）
 
-[Official Website](https://chrithon.github.io/hotspot4windows/)
+[Official Website](https://sems-pc.club/hotspot4windows/)
 
 Welcome to use Hotspot4windows!
 
@@ -52,7 +52,7 @@ If you have any question, please send an E-mail to:
 4. 在Windows命令提示符中執行“cd /(The location of Python File)”。
 5. 在Windows命令提示符中執行“python (filename).py”。
 
-還不明白？[戳我！](https://www.bilibili.com/video/av42809262)
+還不明白？[戳我！](https://sems-pc.club/hotspot4windows/)
 
 如果有任何問題，請發電子郵件至：
 
