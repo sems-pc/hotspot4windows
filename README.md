@@ -1,4 +1,5 @@
-总共下载量：[![Downloads](https://pepy.tech/badge/hotspot4windows)](https://pepy.tech/project/hotspot4windows)
+总下载量(Total downloads)：[![Downloads](https://pepy.tech/badge/hotspot4windows)](https://pepy.tech/project/hotspot4windows)
+
 （简体中文）
 
 欢迎使用hotspot4windows!
