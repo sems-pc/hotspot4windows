@@ -59,5 +59,3 @@ If you have any question, please send an E-mail to:
 如果有任何問題，請發電子郵件至：
 
 877259039@qq.com
-
-<iframe height=360 width=500  src="https://player.bilibili.com/player.html?aid=42809262&cid=75075534&page=1" scrolling="yes" border="0" frameborder="yes" framespacing="0" allowfullscreen="true"> </iframe>
