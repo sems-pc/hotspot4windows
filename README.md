@@ -1,3 +1,5 @@
+**[To all users(致各位用户)](https://github.com/sems-pc/hotspot4windows/wiki/To-all-users%EF%BC%88%E8%87%B4%E5%90%84%E4%BD%8D%E7%94%A8%E6%88%B7%EF%BC%89)**
+
 总下载量(Total downloads)：[![Downloads](https://pepy.tech/badge/hotspot4windows)](https://pepy.tech/project/hotspot4windows)
 
 （简体中文）
