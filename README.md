@@ -32,7 +32,7 @@ Welcome to use Hotspot4windows!
 4. Run "cd /(The location of Python File)" in Windows CMD.
 5. Run "python (filename).py" in Windows CMD.
 
-[Not understand?](https://www.bilibili.com/video/av42809262)(On Bilibili, please send me an E-mail if you want to the tutorial video available on YouTube. I'll try my best to upload the video on YouTube.)
+[Not understand?](https://www.bilibili.com/video/av42809262)(On Bilibili)
 
 If you have any question, please send an E-mail to:
 
